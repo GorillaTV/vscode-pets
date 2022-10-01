@@ -257,13 +257,14 @@ export const TOTORO_NAMES: Map<number, string> = new Map<number, string>([
 export const SNAKE_NAMES: Map<number, string> = new Map<number, string>([
     [1, 'Sneaky'],
     [2, 'Mr Slippery'],
-    [3, 'Hissy Elliott'],
+    [3, 'Max'],
     [4, 'Molly'],
     [5, 'Coco'],
     [6, 'Buddy'],
     [7, 'Ruby'],
-    [8, 'Bailey'],
-    [9, 'Max'],
+    [8, 'Oscar'],
+    [9, 'Lucy'],
+    [10, 'Bailey'],
 ]);
 
 export const DUCK_NAMES: Map<number, string> = new Map<number, string>([
@@ -323,4 +324,5 @@ export const COCKATIEL_NAMES: Map<number, string> = new Map<number, string>([
     [9, 'Jack Sparrow'],
     [10, 'Godfeather'],
     [11, 'Mickey'],
+    [12, 'Dame Judi Finch'],
 ]);
